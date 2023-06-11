@@ -1,6 +1,6 @@
 ---
-title: '14.02'
-date: 'تاريخ : 1402/02/09'
+title: '1302'
+date: 'تاريخ : 1402/109'
 description: 'گیت هاب'
 changes: [
 { title: 'ورود اكسل به برنامه از طریق پنجره پشتیبانی', icon: 'mdi-light:home' }, 
